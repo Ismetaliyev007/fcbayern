@@ -1,0 +1,13 @@
+h1.bashdigh
+ { color: aliceblue;
+    border: 3px solid red; background-color: red;
+}
+p.birinci {color: blue;}
+p#213 {color: blanchedalmond;}
+strong {
+    font-style: italic;
+    font-weight: lighter;
+    color: red;
+}
+.ikinci {color: burlywood;}
+.ughurlar_cedveli {color: rebeccapurple;}
